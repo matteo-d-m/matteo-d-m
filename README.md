@@ -1,7 +1,7 @@
 # Matteo De Matola
 
 - :microscope: Finishing PhD in Cognitive & Brain Sciences at [CoN&Co Lab](https://www.cimec.unitn.it/en/CoNeCo), [CIMeC](https://www.cimec.unitn.it/en), University of Trento :it:
-- :books: Master's student in Data Science, University of Trento :it:
+- :books: Master's student in Data Science (part-time), University of Trento :it:
 - :hourglass: Currently working on:
   - Decoding and forecasting time series
   - Reproducible data pipelines
