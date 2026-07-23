@@ -8,6 +8,7 @@
   - Interpretability techniques
 - :hammer_and_wrench: Python, PyTorch, Linux, Git, environments, R
 - :page_with_curl: Public CV [here](https://docs.google.com/document/d/1MwaOq6UN_75U3Z5MdyuYiz639_OEF5oFa1lo8c73Lbo/edit?tab=t.0)
+- :question: Ask me about currently unpublished projects!
 <!---
 matteo-d-m/matteo-d-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
