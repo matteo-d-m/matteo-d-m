@@ -11,11 +11,6 @@
 - :books: Educational materials: [CNNs](https://github.com/matteo-d-m/cnns-tutorial), [TMS-EEG](https://github.com/matteo-d-m/brainstim-multimodal), [Git/GitHub](https://github.com/coneco-lab/git-tutorial)
 - :question: Ask me about currently unpublished projects!
 
----
-
-Since everyone seems to do whatever they want with other people's photos, I choose not to post my face on the Internet. 
-
-If you are a potential collaborator, don't be discouraged by the absence of a profile picture: I am a real person and I'd be glad to meet you in the real world!
 <!---
 matteo-d-m/matteo-d-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
